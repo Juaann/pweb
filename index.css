@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://img.freepik.com/vector-gratis/lindo-perro-sacando-lengua-ilustracion-icono-dibujos-animados_138676-2709.jpg);
+    color: black;
+}
+
+.tituloPrincipal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jehs{
+    width: 400px;
+    height: 300px;
+}
+
+.cheems{
+    width: 300px;
+    height: 200px;
+}
+
+.marshall{
+    width: 400px;
+    height: 300px;
+}
+
+.images-body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:  100vh;
+}
